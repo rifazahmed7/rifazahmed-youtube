@@ -2,6 +2,7 @@
   "name": "rifaz-youtube",
   "version": "0.1.0",
   "private": true,
+  "homepage":" https://rifazahmed7.github.io/rifazahmed-youtube",
   "dependencies": {
     "-": "^0.0.1",
     "@reduxjs/toolkit": "^1.9.2",
@@ -22,6 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
   },
   "eslintConfig": {
     "extends": [
