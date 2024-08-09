@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rifazahmed-youtube/static/css/main.6384cb14.css",
+    "main.js": "/rifazahmed-youtube/static/js/main.79b7da4c.js",
+    "static/js/787.5472c9cf.chunk.js": "/rifazahmed-youtube/static/js/787.5472c9cf.chunk.js",
+    "index.html": "/rifazahmed-youtube/index.html",
+    "main.6384cb14.css.map": "/rifazahmed-youtube/static/css/main.6384cb14.css.map",
+    "main.79b7da4c.js.map": "/rifazahmed-youtube/static/js/main.79b7da4c.js.map",
+    "787.5472c9cf.chunk.js.map": "/rifazahmed-youtube/static/js/787.5472c9cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6384cb14.css",
+    "static/js/main.79b7da4c.js"
+  ]
+}
